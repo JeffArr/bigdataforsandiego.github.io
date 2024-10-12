@@ -2,7 +2,7 @@
 
 #### Team Number: `YOUR TEAM NUMBER HERE`  
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: `Matcha Latte`    
   
 #### Your team’s hackathon idea in One sentence:
 ##### `YOUR ONE SENTENCE HERE`
